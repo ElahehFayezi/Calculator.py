@@ -9,9 +9,6 @@ A simple yet powerful calculator application built using Python and PyQt5, featu
 - **Real-time Expression Display:** Instant feedback while typing expressions.
 - **Error Handling:** Graceful handling of invalid expressions.
 
-## 🖥️ Preview
-![Calculator Preview](./assets/calculator_preview.png)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
